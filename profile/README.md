@@ -11,4 +11,4 @@ mcp, protocols, workflows, methodology, tools, epistemology,
 results, depends on *Geometry*, produced by *Theologian*, graph editor, interactive, visual, database, display, interpretation,
 
 ## Scribe
-utility for *Theologian*, video or voice to text, needs Geometer to extract and address unique insights
+utility for *Theologian*, video or voice to text, needs *Geometer* to extract and address unique insights
