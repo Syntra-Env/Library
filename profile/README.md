@@ -4,7 +4,7 @@ embedding, storage, content addressing, runtime, curvature, coherence, resonance
 ## Linguist
 arabic nlp, based on the work of *Geometer*, mathematical linguistics, machine learning for classical arabic
 
-## Theologian
+## Scholar
 mcp, protocols, workflows, methodology, tools, epistemology,
 
 ## Artist
