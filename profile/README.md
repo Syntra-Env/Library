@@ -8,4 +8,4 @@ mcp, protocols, workflows, methodology, tools
 depends on *Geometry*, produced by *Theologian*, graph editor, interactive, visual, database
 
 ## Scribe
-utility for *Theologian*
+utility for *Theologian*, video or voice to text, needs Geometer to extract and address unique insights
