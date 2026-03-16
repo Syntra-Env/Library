@@ -2,7 +2,7 @@
 embedding, type, address, runtime, curvature, coherence, resonance, memory, metrics, distance, derivatives, fields, holonomy, cayley-dickson constructions
 
 ## Linguist
-arabic nlp, based on the work of *Geometer*, mathematical linguistics, machine learning for classical arabic, database
+arabic nlp, based on the work of *Geometer*, mathematical linguistics, machine learning for classical arabic, datasets
 
 ## Scholar
 mcp, protocols, workflows, methodology, tools, epistemology, techniques, instructions
