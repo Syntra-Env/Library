@@ -1,5 +1,5 @@
 ## Geometer
-embedding, type, address, runtime, curvature, coherence, resonance, memory, metrics, distance, derivatives, fields, holonomy, cayley-dickson constructions
+embedding, type, address, runtime, curvature, coherence, resonance, memory, metrics, distance, derivatives, fields, holonomy, cayley-dickson constructions, gauge, lattice, transport, homology, reimann
 
 ## Linguist
 arabic nlp, based on the work of *Geometer*, mathematical linguistics, machine learning for classical arabic, datasets
