@@ -7,7 +7,7 @@ arabic nlp, based on the work of *Geometer*, mathematical linguistics, machine l
 ## Scholar
 mcp, protocols, workflows, methodology, tools, epistemology, techniques, instructions
 
-## Artist
+## Painter
 displays results, depends on *Geometry*, produced by *Theologian*, graph editor, interactive, visual, database, interpretation, enable exploration and creativity
 
 ## Scribe
