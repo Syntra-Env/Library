@@ -1,0 +1,6 @@
+{
+  "name": "Issue Close Guard",
+  "description": "Prevents closing issues without a merged PR that passed CI tests. Reopens issues closed without verification.",
+  "iconName": "shield-check",
+  "categories": ["Continuous Integration", "Quality"]
+}

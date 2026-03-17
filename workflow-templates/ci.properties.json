@@ -1,0 +1,6 @@
+{
+  "name": "Syntra CI",
+  "description": "Runs tests and lint checks on PRs and pushes to main. Required for issue closure.",
+  "iconName": "check-circle",
+  "categories": ["Python", "Node.js", "Continuous Integration"]
+}
