@@ -1,0 +1,6 @@
+each node is a portal to another space with more structures(??) 
+you go through the node to go 'inside' the 'fiber' in the fiber bundle
+
+eventually add dynamics to the nodes and edges 
+
+tensengrity 
