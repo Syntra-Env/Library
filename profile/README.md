@@ -6,9 +6,7 @@ All Syntra-Env repos enforce **tested-before-close**: issues cannot be closed wi
 
 ## Hugging Face
 
-[![🤗 Models](https://img.shields.io/badge/🤗%20Models-Syntra--Env- yellow?style=flat-square&logo=huggingface)](https://huggingface.co/Syntra-Env)
-[![📊 Datasets](https://img.shields.io/badge/📊%20Datasets-Syntra--Env-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/Syntra-Env)
-[![⚡ Spaces](https://img.shields.io/badge/⚡%20Spaces-Syntra--Env-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/Syntra-Env)
+[![🤗](https://img.shields.io/badge/-Syntra--Env-yellow?style=flat&logo=huggingface)](https://huggingface.co/Syntra-Env)
 
 ---
 
