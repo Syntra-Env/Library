@@ -4,6 +4,12 @@ All Syntra-Env repos enforce **tested-before-close**: issues cannot be closed wi
 
 ---
 
+## Hugging Face
+
+Models, datasets, and more: https://huggingface.co/Syntra-Env
+
+---
+
 ## Geometer
 embedding, type, address, runtime, curvature, coherence, resonance, memory, metrics, distance, derivatives, fields, holonomy, cayley-dickson constructions, gauge, lattice, transport, homology, reimann
 
