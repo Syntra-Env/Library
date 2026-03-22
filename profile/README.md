@@ -25,4 +25,3 @@ utility for *Theologian*, video or voice to text, needs *Geometer* to extract an
 
 ## Painter
 displays results, depends on *Geometry*, produced by *Theologian*, graph editor, interactive, visual, interpretation, enable exploration and creativity
-
