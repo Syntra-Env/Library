@@ -17,5 +17,5 @@ embedding, type, address, runtime, curvature, coherence, resonance, memory, metr
 ## Linguist
 arabic nlp, based on the work of *Geometer*, mathematical linguistics, machine learning for classical arabic, datasets
 
-# Website
+## Website
 research n stuff
