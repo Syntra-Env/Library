@@ -17,11 +17,5 @@ embedding, type, address, runtime, curvature, coherence, resonance, memory, metr
 ## Linguist
 arabic nlp, based on the work of *Geometer*, mathematical linguistics, machine learning for classical arabic, datasets
 
-## Scholar
-mcp, protocols, workflows, methodology, tools, epistemology, techniques, instructions
-
-## Scribe
-utility for *Theologian*, video or voice to text, needs *Geometer* to extract and address unique insights
-
-## Painter
-displays results, depends on *Geometry*, produced by *Theologian*, graph editor, interactive, visual, interpretation, enable exploration and creativity
+# Website
+research n stuff
